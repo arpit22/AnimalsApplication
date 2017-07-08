@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animals Application</string>
+    <string name="drawer_opened">Select a Item</string>
+    <string name="drawer_closed">Animals</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pins_feed">https://gist.githubusercontent.com/arpit22/c64374caa841ac91bb7c776a0c7710ac/raw/16f4402102870bab8025f2ce138dac8688c26044/</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/arpit22/dc3ace31f30599b12e3ab3d1eaf24721/raw/b43448cfba476030afcb6658c4e7a24814b0cad0/</string>
+    <string name="exhibits_feed">https://gist.githubusercontent.com/arpit22/980275d37fe5612600c3183a90e040e9/raw/8a3b3f92dd54b3fc345b1dc1b91488ee1382c76d/</string>
+</resources>
